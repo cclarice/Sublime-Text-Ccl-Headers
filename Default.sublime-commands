@@ -1,0 +1,17 @@
+[
+  {
+    "caption": "ccl headers: toggle",
+    "command": "toggle_header"
+  },
+  {
+    "caption": "ccl headers: update",
+    "command": "update_header"
+  },
+  {
+    "caption": "ccl headers: settings",
+    "command": "open_file",
+    "args": {
+        "file": "${packages}/User/ccl-headers.sublime-settings"
+    }
+  }
+]
